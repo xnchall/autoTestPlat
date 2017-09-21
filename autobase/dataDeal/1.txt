@@ -1,0 +1,1771 @@
+@@@@@@@@/ngbss/credit/practice/code/basesql/credit
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (268) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (116).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (82) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (182).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (738) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (175).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (542) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (87) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (62) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (99).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (143).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (563) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (69).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (568) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (85).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (120).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (370) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (80).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (322) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (558) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (295) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (533) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (123).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (353) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (162).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (666) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (433) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (130) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (305) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (725) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (756) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (555) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (84).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (323) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (90).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (252) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (39) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (110).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (534) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (448) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (420) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (114).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (716) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (182) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (546) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (402) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (590) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (165).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (112).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (445) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (65) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (146).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (491) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (72).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (462) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (308) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (147).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (582) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (185) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (289) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (141).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (138).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_likai.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (132) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (113).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (48) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (161).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (396) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (67).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (705) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (707) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (6) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (79).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (183) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (346) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop100 - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (168).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (215) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (711) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (221) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (713) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (118) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_gprsStop15 - 副本 (149).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (421) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit - 副本 (117).sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (222) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c220_p34_speedLimit1 - 副本 (281) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/cbg_c101_p34_jkAndSend - 副本 (73).sql
+/ngbss/credit/practice/code/basesql/credit/temp
+/ngbss/credit/practice/code/basesql/credit/temp
+/ngbss/credit/practice/code/basesql/credit/temp/test
+/ngbss/credit/practice/code/basesql/credit/temp/test
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (268) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (116).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (82) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (182).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (738) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (175).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (542) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (87) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (62) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (99).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (143).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (563) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (69).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (568) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (85).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (120).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (370) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (80).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (322) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (558) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (295) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (533) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (123).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (353) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (162).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (666) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (433) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (130) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (305) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (725) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (756) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (555) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (84).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (323) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (90).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (252) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (39) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (110).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (534) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (448) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (420) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (114).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (716) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (182) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (546) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (402) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (590) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (165).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (112).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (445) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (65) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (146).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (491) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (72).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (462) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (308) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (147).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (582) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (185) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (289) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (141).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (138).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_likai.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (132) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (113).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (48) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (161).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (396) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (67).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (705) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (707) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (6) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (79).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (183) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (346) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (168).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (215) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (711) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (221) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (713) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (118) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (149).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (421) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (117).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (222) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (281) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (73).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (158).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (106).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (78).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (275) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (553) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (700) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (486) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (254) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (63) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (102).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (121).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (160) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (189).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (176).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (357) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (332) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (615) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (65).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (86).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (656) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (95).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (86).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (49).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (132).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (699) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (191) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (111).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (437) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (373) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (158).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (603) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (266) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (44).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (127).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (250) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (616) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (263) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (614) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (485) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (116).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (348) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (565) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (571) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (114) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (124).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (132).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (194) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (458) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (51) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (469) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (365) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (86).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (358) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (152).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (41).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (657) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (755) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (426) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (32) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (52).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (184).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (184) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (165) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (209) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (187).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (721) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (434) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (499) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (490) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (510) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (269) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (698) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (319) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (137).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (174).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (54).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (132).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (48).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (267) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (687) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (413) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (276) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (46).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (149).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (408) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (119).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (625) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (230) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (187).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (712) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (224) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (381) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (71).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (324) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (178).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (97).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (623) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (566) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (126) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (108) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (75).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (175).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (468) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (170).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (120).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (637) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (119).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (655) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (91).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (55) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (223) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (68).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (104).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (150).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (87).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (41).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (188) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/likai111.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (181).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (84).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (127) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (234) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (620) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (606) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (81).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (119).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (15) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (134).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (646) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (272) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (153) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (182).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (116).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (188).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (440) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (419) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (114).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (138) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (158) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (111).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (591) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (101).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (74).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (89) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (154).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (326) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (189) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (55).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (78).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (160).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (50).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (120).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (279) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (178).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (141).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (195).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (45) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (435) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (176) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (664) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (629) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (107) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (41).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (106).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (673) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (730) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (130).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (685) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (303) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (30) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (512) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (138).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (91).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (46).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (131).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (43).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (613) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (561) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (529) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (149) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (103).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (120) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (726) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (101).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (70).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (121).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (204) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (585) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (140) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (78) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (77).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (678) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (98).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (507) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (612) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (186).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (167).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (42).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (12) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (155).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (313) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (54).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (167).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (199) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (597) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (61).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (484) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (359) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (309) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (174).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (119) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (44).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (125) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (409) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (182).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (64).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (94) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (82).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (265) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (73).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (262) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (455) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (159).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (337) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (71).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (128).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (333) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (627) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (62).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (105).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (65).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (85).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (302) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (9) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (206) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (208) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (25) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (378) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (139) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (68).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (304) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (577) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (147).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (184).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (560) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (139).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (125).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (49).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (179).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (80).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (110).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (106).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (107).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (116) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (52).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (141) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (463) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (162).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (166).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (59) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (273) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (134) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (41).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (131) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (35) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (172).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (128).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (497) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (390) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (618) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (31) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (147).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (399) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (112).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (307) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (727) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (500) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (341) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (7) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (150).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (586) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (61).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (545) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (710) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (151) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (525) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (155) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (513) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (300) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (522) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (89).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (69).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (162) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (62).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (344) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (384) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (43).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (110) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (140).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (160).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (376) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (122) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (142).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (133).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (270) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (99) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (757) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (521) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (48).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (81).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (48).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (412) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (532) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (643) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (148).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (60) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (416) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (459) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (736) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (569) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (143).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (93).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit11.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (112).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (93).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (150).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (198) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (129) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (146) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (154).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (166).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (161).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (143) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (728) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (164).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (174).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (41).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (153).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (722) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (118).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (480) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (572) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (188).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (352) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (118).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (173).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (536) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (539) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (108).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (751) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (102) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (48).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (681) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (334) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (183).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (651) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (74).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (129).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (454) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (493) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (87).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (428) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (96).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (143).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (156).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (139).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (318) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (176).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (54) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (100) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (287) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (677) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (74).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (88) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (185).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (81).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (63).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (49).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (27) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (82).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (210) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (64) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (278) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (439) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (75).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (110).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (182).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (85) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (135).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (483) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (72).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (749) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (128).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (180) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (644) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (29) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (66).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (94).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (151).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (99).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (456) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (301) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (574) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (138).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (663) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (476) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (34) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (477) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (271) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (170).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (239) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (157).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (226) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (383) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (518) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (220) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (58).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (375) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (102).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (474) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (95) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (55).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (119).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (142).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (58).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (126).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (398) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (86) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (146).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (639) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (159) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (752) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (169).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (427) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (382) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (177).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (135).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (508) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (179).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (109).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (246) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (5) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (156).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (144).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (130).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (185).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (143).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (153).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (155).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (356) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (132).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (88).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (163).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (66) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (191).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (11) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (14) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (327) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (503) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (441) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (154).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (667) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (506) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (611) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (494) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (293) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (98).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (192).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (89).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (598) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (735) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (68).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (60).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (564) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (495) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (172).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (607) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (165).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (43) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (330) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (76) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (674) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (117).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (676) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (167).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (152) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (114).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (746) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (442) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (121).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (628) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (125).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (150) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (297) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (174).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (717) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (22) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (498) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (422) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (144).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (164) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (579) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (177).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (104).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (52).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (519) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (544) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (429) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (180).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (306) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (217) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (108).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (19).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (355) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (124) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (56) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (116).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (653) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (28) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (146).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (719) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (342) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (16) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (339) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (104).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (79).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (170).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (387) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (754) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (502) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (50).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (424) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (688) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (53).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (216) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (129).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (71).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (214) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (395) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (144).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (139).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (65).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (274) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (167).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (684) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (117).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (44).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (515) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (3) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (92).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (581) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (192) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (83).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (559) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (261) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (447) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (178) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (151).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (511) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (77).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (125).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (46).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (102).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (583) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (758) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (196) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (325) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (95).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (430) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (64).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (75).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (106) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (609) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (652) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (418) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (423) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (189).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (154) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (52).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (366) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (156) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (50).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (668) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (528) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (64).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (587) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (473) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (336) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (107).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (172) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (550) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (69) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (83).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (247) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (90).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (682) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (372) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (97).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (190).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (723) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (96).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (96).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (260) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (73).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (203) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (693) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (175) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (20).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (703) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (464) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (66).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (243) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (149).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (621) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (207) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (142).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (138).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (145).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (147).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (160).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (112) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (584) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (70).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_SSSSSSSSSSSS.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (88).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (686) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (392) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (90).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (739) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (732) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (191).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (218) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (59).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (642) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (178).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (133) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (113).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (91).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (488) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (129).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (140).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (343) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (233) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (93) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (97) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (87).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (6).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (446) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (144).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (144) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (195) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (55).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (282) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (130).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (152).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (466) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (530) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (600) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (283) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (151).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (632) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (157).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (175).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (101) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (101).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (69).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (101).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (63).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (315) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (13) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (173).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (43).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (90).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (76).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (567) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (554) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (675) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (92).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (127).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (743) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (188).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (172).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (103).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (125).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (672) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (49) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (706) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (179) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (284) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (256) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (79).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (71).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (156).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (654) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (185).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (154).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (133).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (294) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (361) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (71) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (79).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (450) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (407) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (42) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (340) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (172).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (58).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (162).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (286) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (106).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (77) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (161) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (360) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (242) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (84) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (131).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (142).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (388) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (692) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (386) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (87).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (135).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (109).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (380) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (185).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (338) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (54).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (695) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (202) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (166).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (50).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (160).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (520) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (89).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (200) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (538) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (99).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (110).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (84).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (123).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (67).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (232) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (128) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (744) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (76).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (742) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (593) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (535) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (72).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (141).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (92) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (50) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (658) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (134).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (93).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (292) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (368) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (124).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (411) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (49).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (235) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (188).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (191).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (211) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (394) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (112).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (291) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (105).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (181).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (190).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (136).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (44).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (391) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (108).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (186).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (136).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (38).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (689) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (161).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (50).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (472) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (105) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (169).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (26) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (734) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (576) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (650) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (168).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (74).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (691) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (417) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (259) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (245) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (126).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (153).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (523) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (65).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (379) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (77).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (634) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (136).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (58).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (4).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (120).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (135).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (201) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (127).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (552) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (453) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (173).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (225) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (22).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (617) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (457) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (165).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (133).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (731) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (431) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (168).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (102).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (759) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (18).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (665) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (240) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (212) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (158).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (237) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (148).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (55).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (329) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (604) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (645) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (718) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (70).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (290) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (166) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (285) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (170) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (405) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (635) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (126).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (92).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (83).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (715) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (624) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (249) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (461) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (53) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (133).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (328) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (84).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (33) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (76).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (168).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (122).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (123).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (288) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (479) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (317) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (19) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (46).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (131).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (137).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (264) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (608) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (404) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (23) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (91).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (205) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (75).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (671) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (186).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (82).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (702) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (123) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (109).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (32).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (162).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (649) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (219) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (181).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (605) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (46) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (54).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (187).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (68).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (229) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (131).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (481) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (166).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (570) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (509) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (18) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (33).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (467) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (155).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (152).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (70).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (310) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (251) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (393) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (163) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (127).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (748) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (171).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (134).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (148).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (68) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (589) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (11).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (177) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (80).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (107).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (238) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (296) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (79) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (92).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (91) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (75) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (36) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (107).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (636) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (170).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (61) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (487) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (59).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (53).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (61).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (66).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (192).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (139).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (610) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (443) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (77).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (44) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (97).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (537) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (595) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (631) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (709) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (49).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (708) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (181).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (401) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (93).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (531) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (47) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (350) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (349) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (175).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (149).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (638) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (389) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (320) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (3).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (59).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (414) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (141).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (99).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (148) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (438) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (183).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (169) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (385) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (31).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (38) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (57) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (59).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (161).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (40) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (187) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (740) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (17).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (111).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (753) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (164).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (103) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (29).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (118).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (181) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (126).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (670) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (140).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (169).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (648) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (67).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (40).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (720) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (471) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (588) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (316) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (53).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (371) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (183).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (661) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (157).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (193) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (129).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (85).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (159).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (633) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (253) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (165).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (103).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (255) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (578) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (547) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (236) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (179).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (179).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (312) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (150).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (69).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (103).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (177).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (335) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (540) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (123).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (67) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (159).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (183).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (729) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (241) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (72).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (697) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (121) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (82).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (121).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (159).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (351) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (136).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (73) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (108).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (140).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (501) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (173).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (86).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (118).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (696) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (524) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (43).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (592) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (52) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (186).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (690) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (750) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (70) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (96) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (25).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (30).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (156).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (314) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (2).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (169).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (662) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (403) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (137) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (115) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (90) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (76).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (432) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (248) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (436) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (714) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (8).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (95).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (94).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (575) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (478) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (601) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (619) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (704) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (158).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (148).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (492) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (115).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (53).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (56).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (83) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (190).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (147) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (109).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (20) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (81).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (171).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (88).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (602) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (164).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (96).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (157) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (573) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (151).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (67).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (176).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (145) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (142) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (48).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (622) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (680) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (45).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (345) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (66).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (10).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (737) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (63).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (146).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (400) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (55).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (113) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (496) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (16).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (178).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (647) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (113).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (406) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (117).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (124).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (37) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (80).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (54).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (594) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (41) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (527) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (187).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (137).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (44).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (136) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (747) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (733) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (83).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (104).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (193).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (37).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (5).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (35).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (526) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (134).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (58) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (61).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (367) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (57).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (24).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (24) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (541) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (369) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (374) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (4) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (640) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (277) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (551) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (556) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (180).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (470) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (89).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (104) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (7).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (62).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (97).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (124).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (449) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (465) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (280) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (2) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (176).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (257) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (168) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (347) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (58).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (562) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (641) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (111).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (397) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (331) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (128).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (34).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (8) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (78).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (94).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (231) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (452) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (164).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (109) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (701) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (85).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (630) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (364) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (78).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (258) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (197) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (88).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (557) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (52).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (155).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (10) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (543) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (377) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (80) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (152).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (21).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (95).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 - 副本 (23).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (17) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (444) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (184).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (482) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (549) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (669) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (189).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (177).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (53).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (73).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (15).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (135) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (111) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (580) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (194).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (153).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (26).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (190) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (51).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (186) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (113).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (12).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (228) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (660) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (157).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (47).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (548) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (171).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (514) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (180).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (62).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (745) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (321) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (14).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (137).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (599) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (451) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (679) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (43).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (354) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (130).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (213) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (171).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (410) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (63).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (13).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (105).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (299) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (9).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (298) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (98).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (46).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c101_p34_jkAndSend - 副本 (36).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (74) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (362) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (460) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (244) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (98).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (724) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (105).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (741) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop15 - 副本 (28).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (21) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (184).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (171) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (189).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (167) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (626) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (694) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (114).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (475) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (505) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (683) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (81) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (517) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (173) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_gprsStop100 - 副本 (64).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (227) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (596) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (311) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (180).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (98) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (504) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (516) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (72) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (100).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (39).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (117) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (415) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (425) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (363) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (659) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (489) - 副本.sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (94).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit - 副本 (27).sql
+/ngbss/credit/practice/code/basesql/credit/temp/test/cbg_c220_p34_speedLimit1 - 副本 (174) - 副本.sql
+None

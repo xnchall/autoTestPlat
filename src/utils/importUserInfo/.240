@@ -1,0 +1,7 @@
+#!/usr/bin/expect
+set timeout 30
+set password credit
+spawn ssh credit@10.161.24.240
+expect -nocase "credit@10.161.24.240's password"
+send "$password\r"
+interact
