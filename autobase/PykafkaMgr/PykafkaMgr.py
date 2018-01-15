@@ -115,16 +115,3 @@ class kfkConsumer(object):
 								#message.offset, message.value.decode('utf-8')))#for sss
 			except KafkaError as e:
 				logging.info(e)
-
-# kfk = kfkProducer('10.124.142.46', '6667', 'test-likai')
-# # print(dir(kfk))
-# kfk.__str__()
-
-# for i in range(100):
-# 	params = '{"msg" : "%s"}' %str(i)
-# 	kfk.produceMsg('test-likai',params, 0)
-
-# kfc = kfkConsumer('10.124.142.46:6667')
-# kfc.__str__()
-# kfc.consumerMsg('test-likai', 0)
-# kfc.registerConsumer()
