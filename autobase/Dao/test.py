@@ -7,41 +7,41 @@ import datetime
 from dbPool import dbPool
 
 db_info3 = {
-"dbType" : "pymysql",
-"user" : "root",
-"passwd" : "123456",
-"port" : 3306,
-"host" : "10.251.6.62",
-"dbName" : "report",
-"charset" : "utf8"
+"dbType" : "",
+"user" : "",
+"passwd" : "",
+"port" : ,
+"host" : "",
+"dbName" : "",
+"charset" : ""
 }
 
 db_info = {
 		'dbType' : "cx_Oracle",
-        'host' : "10.124.0.40",
-        'user' : "UOP_CRM1",
-        'passwd' : "UOP_CRM1",
-        'port' : "1521",
-        'dbName' : "tcrm1",
-        'charset' : "utf-8"
+        'host' : "",
+        'user' : "",
+        'passwd' : "",
+        'port' : "",
+        'dbName' : "",
+        'charset' : ""
         }
 db_info2 = {
 		'dbType' : "cx_Oracle",
-        'host' : "10.124.0.39",
-        'user' : "ubak",
-        'passwd' : "ubak_123",
-        'port' : "1521",
-        'dbName' : "ngact",
-        'charset' : "utf-8"
+        'host' : "",
+        'user' : "",
+        'passwd' : "",
+        'port' : "",
+        'dbName' : "",
+        'charset' : ""
         }
 
 db_info1 = {
         'dbType' : 'cx_Oracle',
-        'host' : "10.124.0.42",
-        'user' : "UOP_ACT1",
-        'passwd' : "UOP_ACT1",
-        'port' : "1521",
-        'dbName' : "tact1",
+        'host' : "",
+        'user' : "",
+        'passwd' : "",
+        'port' : "",
+        'dbName' : "",
     }
 
 
